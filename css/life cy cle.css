@@ -1,0 +1,56 @@
+.heading2{
+	font-size: 18px;
+    color: #064738;
+    font-weight: normal;
+    height: 20px;
+    line-height: 20px;
+    margin-bottom: 15px;
+}
+.advise_tit{
+	display: block;
+	padding: 13px 0 60px;
+}
+.advise_tit a{
+	float: left;
+	display:inline-block;
+    height: 33px;
+    line-height: 33px;
+    padding: 0 20px;
+    color: #3d3d3d;
+    background: #fff;
+}
+.advise_tit .serve{
+	background: #064738;
+    color: #fff;
+}
+.course_m{
+	margin-bottom: 30px;
+}
+.hd{
+	height: 33px;
+    margin-bottom: 30px;
+    line-height: 33px;
+    background: #064738;
+    font-weight: bold;
+    color: #fff;
+    padding-left: 20px;
+}
+.ul-list{
+	margin-top: -30px;
+}
+.ul-list li{
+	width: 680px;
+	height: 40px;
+    line-height: 40px;
+    padding: 0 20px;
+	font-size: 12px;
+	border-bottom: 1px dotted #bdbdbd;
+}
+.ul-list li span{
+	float: right;
+    color: #909090;
+	margin-right: 30px;
+}
+.ul-list li a{
+	color: #3d3d3d;
+}

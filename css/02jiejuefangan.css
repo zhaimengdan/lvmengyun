@@ -1,0 +1,50 @@
+.inheader{
+	margin-bottom: 0px;
+	box-shadow: 0 -1px 5px #bbb;
+}
+.inheader .center{
+	margin-top: 18px;
+}
+/* main开始 */
+		/* contants样式 */
+/* main 结束 */
+/* main-t  第一个 */
+.main-t{
+	width: 100%;
+	padding: 0 0 20px;
+}
+.main-t ul{
+	width: 100%;
+}
+.main-t ul li{
+	width: 306px;
+	height: 150px;
+	margin-right: 8px;
+    margin-bottom: 8px;
+	/* background-color: pink; */
+	border: 0px solid #fff;
+	border-radius: 3px;
+}
+.main-t ul .li3{
+	margin-right: 0px;
+}
+.main-t ul .li4{
+	margin-bottom: 0px;
+}
+.main-t ul .li5{
+	margin-bottom: 0px;
+	margin-right: 0px;
+}
+.main-t h3{
+	font-size: 18px;
+    color: #064738;
+    padding: 0 0 15px;
+	font-weight: normal;
+}
+.main-t li a img{
+	width: 306px;
+    height: 150px;
+}
+.h30{
+	height: 30px;
+}
